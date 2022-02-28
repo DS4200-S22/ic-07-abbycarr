@@ -25,9 +25,9 @@ The purpose of this assignment is to start learning how to use D3.js to build cu
 
 1. Begin your assignment by adding 3 div's to your index.html. Each div should be centered on the page, and have width equal to 80% of the page (this is set up in the provided css file). Please give the div's the following id's: "hard-coded-bar", "csv-bar", "csv-scatter", and the class "vis-holder".  
 
-1. Open barchart.js. This file contains the code to build a barchart from hardcoded data inside of the "hard-coded-bar" div. The barchart includes tooltips which show the user a specific bar's values when mousedover. If you included barchart.js in your index.html file correctly, you can open index.html in your browser and see the barchart built by this provided code.
+1. Open barchart.js. This file contains the code to build a barchart from hardcoded data inside of the "hard-coded-bar" div. The barchart includes tooltips which show the user a specific bar's values when mousedover. If you included barchart.js in your index.html file correctly, you can open index.html in your browser and see the barchart built by this provided code. 
 
-1. Notice that barchart.js includes minimal comments. Go through the code and add comments that describe what each step accomplishes. You can use D3 the references below and lecture material to help you understand the code.
+1. Notice that barchart.js includes minimal comments. Go through the code and add comments that describe what each step accomplishes. You can use D3 the references below and lecture material to help you understand the code. `COMMENTING DONE IN CLASS 02/24 - not transcribed into my repo`
 
 1. After you have commented the provided code in barchart.js, add new code to the file. Similar to the provided code, the new code should build a barchart with tooltips inside of the "csv-bar" div. However, this code should use data from barchart.csv (provided with repo) instead of hardcoded data. Note, in order to do this you will need to start a python simple server from the directory in which your code is stored. Instructions for the simple server are provided in the section below.         
 
